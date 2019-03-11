@@ -57,7 +57,7 @@
             <version>2.20.1</version>
             <configuration>
                <includes>
-                  <include>App.java</include>
+                  <include>SampleTest.java</include>
                </includes>
             </configuration>
          </plugin>
